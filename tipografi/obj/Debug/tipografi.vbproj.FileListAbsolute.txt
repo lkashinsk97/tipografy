@@ -1,0 +1,217 @@
+c:\users\asus\documents\visual studio 2012\Projects\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\bin\Debug\Типография.mdf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\bin\Debug\Типография_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\bin\Debug\tipografi.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\bin\Debug\tipografi.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\bin\Debug\tipografi.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+F:\tipografi\tipografi\bin\Debug\tipografi.exe.config
+F:\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+F:\tipografi\tipografi\obj\Debug\tipografi.exe
+F:\tipografi\tipografi\obj\Debug\tipografi.xml
+F:\tipografi\tipografi\obj\Debug\tipografi.pdb
+F:\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+F:\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+F:\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+I:\tipografi\tipografi\bin\Debug\tipografi.exe.config
+I:\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+I:\tipografi\tipografi\obj\Debug\tipografi.exe
+I:\tipografi\tipografi\obj\Debug\tipografi.xml
+I:\tipografi\tipografi\obj\Debug\tipografi.pdb
+I:\tipografi\tipografi\bin\Debug\Типография.mdf
+I:\tipografi\tipografi\bin\Debug\Типография_log.ldf
+I:\tipografi\tipografi\bin\Debug\tipografi.exe
+I:\tipografi\tipografi\bin\Debug\tipografi.pdb
+I:\tipografi\tipografi\bin\Debug\tipografi.xml
+I:\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+I:\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+I:\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+E:\tipografi\tipografi\bin\Debug\tipografi.exe.config
+E:\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+E:\tipografi\tipografi\obj\Debug\tipografi.exe
+E:\tipografi\tipografi\obj\Debug\tipografi.xml
+E:\tipografi\tipografi\obj\Debug\tipografi.pdb
+E:\tipografi\tipografi\bin\Debug\Типография.mdf
+E:\tipografi\tipografi\bin\Debug\Типография_log.ldf
+E:\tipografi\tipografi\bin\Debug\tipografi.exe
+E:\tipografi\tipografi\bin\Debug\tipografi.pdb
+E:\tipografi\tipografi\bin\Debug\tipografi.xml
+E:\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+E:\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+E:\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+E:\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+G:\tipografi\tipografi\bin\Debug\tipografi.exe.config
+G:\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+G:\tipografi\tipografi\obj\Debug\tipografi.exe
+G:\tipografi\tipografi\obj\Debug\tipografi.xml
+G:\tipografi\tipografi\obj\Debug\tipografi.pdb
+G:\tipografi\tipografi\bin\Debug\Типография.mdf
+G:\tipografi\tipografi\bin\Debug\Типография_log.ldf
+G:\tipografi\tipografi\bin\Debug\tipografi.exe
+G:\tipografi\tipografi\bin\Debug\tipografi.pdb
+G:\tipografi\tipografi\bin\Debug\tipografi.xml
+G:\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+G:\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+G:\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\Типография.mdf
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\Типография_log.ldf
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\tipografi.exe
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\tipografi.pdb
+C:\Users\Asus\Desktop\tipografi\tipografi\bin\Debug\tipografi.xml
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+C:\Users\Asus\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\курс\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Asus\Desktop\курс\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\курс\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Asus\Desktop\курс\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Asus\Desktop\курс\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\Типография.mdf
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\Типография_log.ldf
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\tipografi.exe
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\tipografi.pdb
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\bin\Debug\tipografi.xml
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form6.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form8.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Asus\Desktop\ucheba\BD\курс\tipografi\tipografi\obj\Debug\tipografi.Form10.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form10.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+C:\Users\Alex\Downloads\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\Типография.mdf
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\Типография_log.ldf
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\tipografi.exe
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\tipografi.pdb
+C:\Users\Alex\Downloads\tipografi\tipografi\bin\Debug\tipografi.xml
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\tipografi.exe.config
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.exe
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.xml
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.pdb
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\Типография.mdf
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\Типография_log.ldf
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\tipografi.exe
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\tipografi.pdb
+C:\Users\Alex\Desktop\tipografi\tipografi\bin\Debug\tipografi.xml
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form10.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+C:\Users\Alex\Desktop\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.Cache
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\Типография.mdf
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\Типография_log.ldf
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\tipografi.exe.config
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\tipografi.exe
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\tipografi.pdb
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\bin\Debug\tipografi.xml
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.vbproj.ResolveComReference.cache
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form1.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form10.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form2.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form3.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form4.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form5.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form7.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Form9.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.Resources.resources
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.vbproj.GenerateResource.cache
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.exe
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.xml
+I:\10\bird\дипломы\активные\112\112-4\СТОЭИ\tipografi\tipografi\obj\Debug\tipografi.pdb
